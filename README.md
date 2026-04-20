@@ -104,4 +104,4 @@ Chang Qian Hung
 - ACLED Codebook  
 - ACLED Time-Period Coverage Documentation  
 
-(See footnotes in the main report for full references.)
+(See footnotes in the main report to access these references)
